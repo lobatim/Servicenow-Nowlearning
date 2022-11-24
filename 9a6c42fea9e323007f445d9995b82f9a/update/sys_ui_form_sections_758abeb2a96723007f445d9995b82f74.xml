@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="758abeb2a96723007f445d9995b82f74" sys_domain="global" table="x_snc_social_media_monitor" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-14 20:54:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a8abeb2a96723007f445d9995b82f76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_social_media_monitor" name="x_snc_social_media_monitor" sys_domain="global" view="Default view">758abeb2a96723007f445d9995b82f74</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_social_media_monitor" sys_domain="global" view="Default view">12e57632a96723007f445d9995b82faa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-14 20:54:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-14 20:54:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>468abeb2a96723007f445d9995b82f77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_social_media_monitor" name="x_snc_social_media_monitor" sys_domain="global" view="Default view">758abeb2a96723007f445d9995b82f74</sys_ui_form>
+            <sys_ui_section caption="Assessment" display_value="Assessment" name="x_snc_social_media_monitor" sys_domain="global" view="Default view">318abeb2a96723007f445d9995b82f72</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-14 20:54:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-14 20:54:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e8abeb2a96723007f445d9995b82f7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_social_media_monitor" name="x_snc_social_media_monitor" sys_domain="global" view="Default view">758abeb2a96723007f445d9995b82f74</sys_ui_form>
+            <sys_ui_section caption="Action" display_value="Action" name="x_snc_social_media_monitor" sys_domain="global" view="Default view">398abeb2a96723007f445d9995b82f72</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-14 20:54:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-14 20:54:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca8abeb2a96723007f445d9995b82fa3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_social_media_monitor" name="x_snc_social_media_monitor" sys_domain="global" view="Default view">758abeb2a96723007f445d9995b82f74</sys_ui_form>
+            <sys_ui_section caption="Internal notes" display_value="Internal notes" name="x_snc_social_media_monitor" sys_domain="global" view="Default view">318abeb2a96723007f445d9995b82f73</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-14 20:54:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-14 20:54:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a8abeb2a96723007f445d9995b82fa7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_social_media_monitor" name="x_snc_social_media_monitor" sys_domain="global" view="Default view">758abeb2a96723007f445d9995b82f74</sys_ui_form>
+            <sys_ui_section caption="Approval history" display_value="Approval history" name="x_snc_social_media_monitor" sys_domain="global" view="Default view">398abeb2a96723007f445d9995b82f73</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-14 20:54:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_social_media_monitor</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-14 20:54:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>758abeb2a96723007f445d9995b82f74</sys_id>
+            <sys_name>x_snc_social_media_monitor</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Social Media Management" source="x_snc_social_media">9a6c42fea9e323007f445d9995b82f9a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Media Management">9a6c42fea9e323007f445d9995b82f9a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_758abeb2a96723007f445d9995b82f74</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

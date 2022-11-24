@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="output" label="subflow result" language="en" table="var__m_sys_hub_flow_output_54de32c9db7cbb00a13b9a64db96196c">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>output</element>
+            <help/>
+            <hint/>
+            <label>subflow result</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_output_54de32c9db7cbb00a13b9a64db96196c</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-12 14:02:01</sys_created_on>
+            <sys_name>subflow result</sys_name>
+            <sys_package display_value="Social Media Management" source="x_snc_social_media">9a6c42fea9e323007f445d9995b82f9a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Media Management">9a6c42fea9e323007f445d9995b82f9a</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_54de32c9db7cbb00a13b9a64db96196c_output_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
