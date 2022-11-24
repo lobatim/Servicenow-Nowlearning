@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>source_other</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-14 21:12:29</sys_created_on>
+        <sys_id>eeaeb276a96723007f445d9995b82f09</sys_id>
+        <sys_name>source_other</sys_name>
+        <sys_package display_value="Social Media Management" source="x_snc_social_media">9a6c42fea9e323007f445d9995b82f9a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">9a6c42fea9e323007f445d9995b82f9a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_eeaeb276a96723007f445d9995b82f09</sys_update_name>
+        <table>x_snc_social_media_monitor</table>
+        <ui_policy display_value="Show 'Other' souce">a89efe36a96723007f445d9995b82fc1</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

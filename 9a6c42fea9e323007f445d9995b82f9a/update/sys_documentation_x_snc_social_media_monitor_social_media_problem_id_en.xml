@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="social_media_problem_id" label="Social Media Problem" language="en" table="x_snc_social_media_monitor">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>social_media_problem_id</element>
+            <help/>
+            <hint/>
+            <label>Social Media Problem</label>
+            <language>en</language>
+            <name>x_snc_social_media_monitor</name>
+            <plural>Social Media Problems</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-08 16:50:31</sys_created_on>
+            <sys_name>Social Media Problem</sys_name>
+            <sys_package display_value="Social Media Management" source="x_snc_social_media">9a6c42fea9e323007f445d9995b82f9a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Media Management">9a6c42fea9e323007f445d9995b82f9a</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_social_media_monitor_social_media_problem_id_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

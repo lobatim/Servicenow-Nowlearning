@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="assessment_notes" label="Assessment notes" language="en" table="x_snc_social_media_monitor">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>assessment_notes</element>
+            <help/>
+            <hint/>
+            <label>Assessment notes</label>
+            <language>en</language>
+            <name>x_snc_social_media_monitor</name>
+            <plural>Assessment notes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-14 20:54:10</sys_created_on>
+            <sys_name>Assessment notes</sys_name>
+            <sys_package display_value="Social Media Management" source="x_snc_social_media">9a6c42fea9e323007f445d9995b82f9a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Media Management">9a6c42fea9e323007f445d9995b82f9a</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_social_media_monitor_assessment_notes_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
